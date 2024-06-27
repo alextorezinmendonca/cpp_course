@@ -9,6 +9,7 @@ Table::Table(int size) : size(size){
 }
 
 void Table::printAsc(){
+    
     cout << "teste asc" << endl;
 }
 

@@ -193,7 +193,8 @@ class graph{
 
 
 int main(){
+    
     N::Table myTable = {3};
-
+    myTable.printAsc();
     return 0;
 }

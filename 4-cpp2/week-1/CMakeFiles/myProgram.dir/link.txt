@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/myProgram.dir/hex.o CMakeFiles/myProgram.dir/table.o  -o myProgram 

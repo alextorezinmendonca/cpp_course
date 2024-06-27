@@ -1,3 +1,0 @@
-/home/alex1/Documents/c_course/4-cpp2/week-1/CMakeFiles/rebuild_cache.dir
-/home/alex1/Documents/c_course/4-cpp2/week-1/CMakeFiles/edit_cache.dir
-/home/alex1/Documents/c_course/4-cpp2/week-1/CMakeFiles/myProgram.dir
