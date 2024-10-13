@@ -1,12 +1,14 @@
 #include <iostream>
+#include <vector>
 
-namespace N{
-    class Table{
-        public:
-            Table(int size);
-            void printAsc();
-        private:
-            int size;
-            void printTeste();
-    };
-}
+using namespace std;
+
+class Table{
+    public:
+        void printBoard(vector<vector<int>> board);
+        void printConnection(int initSpace, int size);
+        void printSpace(int howMany);
+        vector<vector<int>> board;
+        int size;
+        int connections;
+};
